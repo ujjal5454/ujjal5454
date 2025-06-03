@@ -42,7 +42,7 @@ const ujjalBasnet = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjalbasnet&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal5454&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 💡 Daily Dev Quote
